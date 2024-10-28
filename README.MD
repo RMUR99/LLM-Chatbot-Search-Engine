@@ -15,6 +15,6 @@ This project showcases Streamlit ang langchain library to create a chatbot that 
 -	Sidebar setting  for API key 
 -	Chat Message management ( which sets the history of  the messages session) 
 -	User Input handling (this is will show the text in the chatbot and it will append to the user input) 
--	- Setting up Chat Agent ( initializes Groq Model with the provided API Key along the search tools 
+-	Setting up Chat Agent ( initializes Groq Model with the provided API Key along the search tools 
 -	Displaying Responses (this is initialize text based on the chat history , and uses `Callback Handler` in order to manage the output 
 
