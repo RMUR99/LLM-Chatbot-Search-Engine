@@ -1,12 +1,13 @@
 
-LLM Chatbot Search Engine  🔎🤖
+## LLM Chatbot Search Engine  🔎🤖
 This project showcases Streamlit ang langchain library to create a chatbot that is able to search the internet from sources like Arvix , Wikipedia and DuckDuckDuckGo 🦆while also using GROQ API key for AI Service 
-Before starting you need to : 
+
+## Before starting you need to : 
 -	Get your GROQ API KEY (Free) 🔑
 -	Install Dependencies ( will be provided in the repo ) ⚙️
 -	Please make sure not to share your Key with anyone ! 🔑
 -	The project will work on your own API Key but you may change it in the sidebar in the setting menu if needed ⚙️
-As you go through the project you will see 
+## As you go through the project you will see 
 -	Imports 
 -	Environment variables (where you set the API Keys ) 
 -	API Wrappers and tools ( Which does queries for ArXiv and Wikipedia to fetch the top result , and sets Duck Duck Go Tool) 
